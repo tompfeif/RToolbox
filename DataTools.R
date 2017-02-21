@@ -67,6 +67,7 @@ Box.test() #Ljung-Box test independence of errors; H0: independent errors
 
 
 #output csv file----------------------------------------------------------------------------
-write.csv(edbuild, 'edbuild')
+write.csv(edbuild, 'edbuild') 
+#is this there
 
 
